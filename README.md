@@ -3,7 +3,8 @@
 <h3 align="center">
     🔉 I'm working at the intersection of NLP and RL
 
-    📫 Mail me at <a href="mailto:viknesh0209@gmail.com" target="_blank">**viknesh0209@gmail.com**</a>
+    📫 Mail me at
+    <a href="mailto:viknesh0209@gmail.com" target="_blank">**viknesh0209@gmail.com**</a>
 
     📄 To know more about my experiences, visit my [website](https://Viknesh-Rajaramon.github.io/)
 
