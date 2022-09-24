@@ -2,7 +2,7 @@
 
 <h3 align="center">
   
-🔉 I'm working at the intersection of NLP and RL </a>
+🔉 I'm interested to work in Data Analytics and in Software Engineering </a>
 
 📫 Mail me at **viknesh0209@gmail.com**
 
