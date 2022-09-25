@@ -6,7 +6,7 @@ This page is dedicated to viewing my projects / work. They are arranged in reve
 
 <br>
 
-## <img src="https://media.istockphoto.com/photos/financial-and-technical-data-analysis-graph-showing-stock-market-picture-id943292690?k=20&m=943292690&s=612x612&w=0&h=nqgKD_MdDokOmjmoMHcuSXcHSIDlx3U4773Kg1o_q8U=" height="20" width="20"> Stock Price Forecasting
+## <img src="https://images.moneycontrol.com/static-mcnews/2021/06/Sensex-2.jpg" height="20" width="20"> Stock Price Forecasting
 An approach towards forecasting the stock price using LSTM model. Given the stock ticker symbol, the dataset is retrieved from Yahoo Finance through web scrapping. The LSTM model trains and tries to forecast the stock prices for that particular dataset. <br><br>
 <a href="https://github.com/Viknesh-Rajaramon/Stock-Price-Forecasting" target="_blank">View in Github</a> <br>
 
@@ -15,7 +15,7 @@ An approach towards forecasting the stock price using LSTM model. Given the stoc
 
 <br>
 
-## <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.godigit.com%2Ftraffic-rules%2Ftraffic-signs-in-india&psig=AOvVaw0pfNL9z2YIXTIeWiM_6RB0&ust=1664175656688000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj5gMuvr_oCFQAAAAAdAAAAABAU" height="20" width="20"> Traffic Sign Classification
+## <img src="https://www.godigit.com/content/dam/godigit/directportal/en/contenthm/mandatory-traffic-signs.jpg" height="20" width="20"> Traffic Sign Classification
 Implemented and trained an LSTM based black-box meta-learner for few-shot learning. The model was trained on the Omniglot dataset for K-shot, N-way classification, i.e. training a classifier to distinguish between N previously unseen characters, given only K labeled examples of each character. <br> <br> 
 <a href="https://github.com/siddarth-c/Black-Box-Meta-Learning" target="_blank">View in Github</a> <br>
 
