@@ -16,7 +16,7 @@ An approach towards forecasting the stock price using LSTM model. Given the stoc
 <br>
 
 ## Traffic Sign Classification
-While building a self-driving car, it is necessary to make sure it identifies the traffic signs with a high degree of accuracy, otherwise the results might be catastrophic. To solve this problem we use CNN and Keras and built a deep neural network model that can classify traffic signs present in the image into different categories. <br> <br> 
+While building a self-driving car, it is necessary to make sure it identifies the traffic signs with a high degree of accuracy, otherwise the results might be catastrophic. To solve this problem we use CNN and Keras and built a deep neural network model that can classify traffic signs present in the image into different categories. Achieved an accuracy score of 94.37% <br> <br> 
 <a href="https://github.com/Viknesh-Rajaramon/Traffic-Sign-Classification" target="_blank">View in Github</a> <br>
 
 
@@ -25,38 +25,15 @@ While building a self-driving car, it is necessary to make sure it identifies th
 <br>
 
 ## Scheduling Algorithms Visualizer
-An approach towards predicting the result of a game of chess using Graph Convolutional Operator. Given the past matches played by the players, a graphical model is constructed, and the neural model tries to predict a given match's outcome.<br> <br> 
-<a href="https://github.com/siddarth-c/Graph-Chess" target="_blank">View in Github</a> <br>
+Developed a visualizer for visualizing various pre-emptive and non pre-emptive versions of scheduling algorithms commonly used. <br> <br>
+<a href="https://github.com/Viknesh-Rajaramon/Scheduling-Algorithms-Visualiser" target="_blank">View in Github</a> <br>
 
 ***
 
 <br>
 
-## 🍷 Beer Blurrer
-Developed a framework to detect and blur alcoholic content in images. The first part of the frame-work is a YOLO-V3 model deployed to detect beer bottles. The latter part of the frame-work involves a unique adaptive thresholding algorithm for blurring the detected bottles. Acheived a MAP score of 99.19 %. <br> <br> 
-<a href="https://raw.githubusercontent.com/siddarth-c/Digital-Image-Processing/main/Poster.png" target="_blank">Poster</a> <br>
-<a href="https://github.com/siddarth-c/Digital-Image-Processing" target="_blank">View in Github</a> <br>
-
-***
-
-<br>
-
-
-## 🔐 CoDoH: Classification of DNS over HTTPS
-Two statistical models were utilized to perform two different classification tasks. The first one is to classify the network traffic as DoH vs. Non-DoH, and the second one is the classification of Benign DoH vs. Malicious DoH. Fine inferences were drawn from the results, and the highly impacting features were explained and justified for each class. <br> <br> 
-<a href="https://raw.githubusercontent.com/siddarth-c/CoDoH/main/Poster.png" target="_blank">Poster</a> <br>
-<a href="https://github.com/siddarth-c/CoDoH/blob/main/Report.pdf" target="_blank">Report</a> <br>
-<a href="https://github.com/siddarth-c/CoDoH" target="_blank">View in Github</a> <br>
-
-***
-
-
-
-<br>
-
-## 🖼️ Automatic Image Captioning
-Developed a generative model based on a deep recurrent architecture that combines computer vision and text generation. The encoder is an Inception V3 model that extracts the feature vectors. The decoder, made up of LSTMs, predicts the captions conditioned on the image’s feature vectors. <br> <br> 
-<a href="https://nbviewer.jupyter.org/github/siddarth-c/MachineLearning/blob/master/NLP/Image%20Captioning/Image%20captioning%20Train.ipynb" target="_blank">View in nbviewer</a> <br>
-<a href="https://github.com/siddarth-c/MachineLearning/tree/master/NLP/Image%20Captioning" target="_blank">View in Github</a> <br>
+## 🍷 File Transfer System
+Developed a simple file transfer system that can transfer files between two systems using the IP addresses provided they are connected through the same network using socket programming in Python. Threading enabled for sender to send a file to atmost 4 recievers simultaneously. <br> <br>
+<a href="https://github.com/Viknesh-Rajaramon/File-Transfer-System" target="_blank">View in Github</a> <br>
 
 ***
