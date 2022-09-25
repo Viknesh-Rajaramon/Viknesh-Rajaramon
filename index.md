@@ -6,7 +6,7 @@ This page is dedicated to viewing my projects / work. They are arranged in reve
 
 <br>
 
-## ![image](https://user-images.githubusercontent.com/106917817/192131579-80f19e14-6eac-411f-bbcf-37640e3a4092.png) Stock Price Forecasting
+## <img src="https://media.istockphoto.com/photos/financial-and-technical-data-analysis-graph-showing-stock-market-picture-id943292690?k=20&m=943292690&s=612x612&w=0&h=nqgKD_MdDokOmjmoMHcuSXcHSIDlx3U4773Kg1o_q8U=" height="40" width="40"> Stock Price Forecasting
 An approach towards forecasting the stock price using LSTM model. Given the stock ticker symbol, the dataset is retrieved from Yahoo Finance through web scrapping. The LSTM model trains and tries to forecast the stock prices for that particular dataset. <br><br>
 <a href="https://github.com/Viknesh-Rajaramon/Stock-Price-Forecasting" target="_blank">View in Github</a> <br>
 
