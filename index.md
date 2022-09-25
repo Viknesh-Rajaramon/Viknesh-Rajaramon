@@ -6,8 +6,8 @@ This page is dedicated to viewing my projects / work. They are arranged in reve
 
 <br>
 
-## ➕➖ Stock Price Forecasting
-Implemented and trained an LSTM based stock price forecasting model. The model was trained using the dataset obtained from Yahoo Finance through web scraping. The LSTM model trains and tries to forecast the stock prices for that particular dataset. <br><br>
+## ![image](https://user-images.githubusercontent.com/106917817/192131579-80f19e14-6eac-411f-bbcf-37640e3a4092.png) Stock Price Forecasting
+An approach towards forecasting the stock price using LSTM model. Given the stock ticker symbol, the dataset is retrieved from Yahoo Finance through web scrapping. The LSTM model trains and tries to forecast the stock prices for that particular dataset. <br><br>
 <a href="https://github.com/Viknesh-Rajaramon/Stock-Price-Forecasting" target="_blank">View in Github</a> <br>
 
 
