@@ -32,7 +32,7 @@ Developed a visualizer for visualizing various pre-emptive and non pre-emptive v
 
 <br>
 
-## 🍷 File Transfer System
+## File Transfer System
 Developed a simple file transfer system that can transfer files between two systems using the IP addresses provided they are connected through the same network using socket programming in Python. Threading enabled for sender to send a file to atmost 4 recievers simultaneously. <br> <br>
 <a href="https://github.com/Viknesh-Rajaramon/File-Transfer-System" target="_blank">View in Github</a> <br>
 
