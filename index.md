@@ -24,9 +24,9 @@ While building a self-driving car, it is necessary to make sure it identifies th
 
 <br>
 
-## Scheduling Algorithms Visualizer
+## CPU Scheduling Algorithms Visualizer
 Developed a visualizer for visualizing various pre-emptive and non pre-emptive versions of scheduling algorithms commonly used. <br> <br>
-<a href="https://github.com/Viknesh-Rajaramon/Scheduling-Algorithms-Visualiser" target="_blank">View in Github</a> <br>
+<a href="[https://github.com/Viknesh-Rajaramon/Scheduling-Algorithms-Visualiser](https://github.com/Viknesh-Rajaramon/CPU-Scheduling-Algorithms-Visualiser)" target="_blank">View in Github</a> <br>
 
 ***
 
