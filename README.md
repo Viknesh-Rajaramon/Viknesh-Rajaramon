@@ -5,7 +5,7 @@
 
 	📫 Mail me at **viknesh0209@gmail.com**
 
-	📄 To know more about my experiences, visit my [website](https://viknesh-rajaramon.github.io/)
+	📄 Visit my [website](https://viknesh-rajaramon.github.io/) to reach me.
 </h3>
 
 <hr>
