@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Viknesh Rajaramon</h1>
 
 <h3>
+
 	I am a versatile and self-motivated engineer pursuing Master of Science at ASU in Computer Science. I'm interested to work in Software Engineering and in Data Science.
-	<br>
+
 	I am an avid cricket and basketball enthusiast who also enjoys travelling and cycling.
-	<br>
+	
 	To know more about me, click [here](https://viknesh-rajaramon.github.io/)
-	<br>
+	
 	To reach me, click [here](https://viknesh-rajaramon.github.io/#contact)
+
 </h3>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=viknesh-rajaramon&show_icons=true&theme=tokyonight)
