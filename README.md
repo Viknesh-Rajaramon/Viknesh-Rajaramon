@@ -13,10 +13,10 @@
 <hr>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/viknesh-rajaramon/" alt="Linkedin">
-		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/main/image/linkedin.png">
+	<a href="https://www.linkedin.com/in/viknesh-rajaramon/">
+		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/main/image/linkedin.png" alt="Linkedin">
 	</a>
-    <a href="https://github.com/Viknesh-Rajaramon/" alt="GitHub">
-		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/main/image/github.png">
+    <a href="https://github.com/Viknesh-Rajaramon/">
+		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/main/image/github.png" alt="GitHub">
 	</a>
 </p>
