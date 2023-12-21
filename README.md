@@ -2,9 +2,7 @@
 
 <h3 align="center">
 	🔉 I'm interested to work in Software Engineering and in Data Science
-
 	📫 Mail me at **viknesh0209@gmail.com**
-
 	📄 Visit my [website](https://viknesh-rajaramon.github.io/) to reach me.
 </h3>
 
