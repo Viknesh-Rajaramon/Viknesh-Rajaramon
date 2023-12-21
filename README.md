@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Viknesh Rajaramon</h1>
 
-<h3 align="center">
-  
-🔉 I'm interested to work in Data Analytics and in Software Engineering </a>
+<h3>I am a versatile and self-motivated engineer pursuing Master of Science at ASU in Computer Science.</h3>
 
-📫 Mail me at **viknesh0209@gmail.com**
+<h3>I'm interested to work in Software Engineering and in Data Science.</h3>
 
-📄 To know more about my experiences, visit my [website](https://Viknesh-Rajaramon.github.io/)
+<h3>To know more about me, click <a href="https://viknesh-rajaramon.github.io/" target="_blank">here</a>.</h3>
 
-👷 Visit my [project page](https://Viknesh-Rajaramon.github.io/Viknesh-Rajaramon/) to get a comprehensive view of my projects
-  
-<br>
-</h3>
-<h2 align="center">Programming Languages</h2>
-<p align="center"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>       </a> 
-<a href="https://isocpp.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>       </a> 
-<a href="https://go.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" width="40" height="40"/> </a> </p>
+<h3>To reach me, click <a href="https://viknesh-rajaramon.github.io/#contact" target="_blank">here</a>.</h3>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=viknesh-rajaramon&show_icons=true&theme=tokyonight)
+
+<hr>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/viknesh-rajaramon/">
+		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/main/image/linkedin.png" alt="Linkedin">
+	</a>
+    <a href="https://github.com/Viknesh-Rajaramon/">
+		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/main/image/github.png" alt="GitHub">
+	</a>
+</p>
