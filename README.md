@@ -4,9 +4,9 @@
 
 <h3>I'm interested to work in Software Engineering and in Data Science.</h3>
 
-<h3>To know more about me, click [here](https://viknesh-rajaramon.github.io/).</h3>
+<h3>To know more about me, click <a href="https://viknesh-rajaramon.github.io/" target="_blank">here</a>.</h3>
 
-<h3>To reach me, click [here](https://viknesh-rajaramon.github.io/#contact).</h3>
+<h3>To reach me, click <a href="https://viknesh-rajaramon.github.io/#contact" target="_blank">here</a>.</h3>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=viknesh-rajaramon&show_icons=true&theme=tokyonight)
 
