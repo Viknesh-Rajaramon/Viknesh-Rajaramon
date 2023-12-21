@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	🔉 I'm interested to work in Data Analytics and in Software Engineering </a>
+	🔉 I'm interested to work in Software Engineering and in Data Science
 
 	📫 Mail me at **viknesh0209@gmail.com**
 
