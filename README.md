@@ -1,5 +1,3 @@
-# About Me:
-
 <h1 align="center">Hi 👋, I'm Viknesh Rajaramon</h1>
 
 <h3>I am a versatile and self-motivated engineer pursuing Master of Science at ASU in Computer Science.</h3>
