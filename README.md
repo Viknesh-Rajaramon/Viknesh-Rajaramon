@@ -23,10 +23,14 @@
 
 <hr>
 
-<p align="center">
+<span align="center">
 	<a href="https://www.linkedin.com/in/viknesh-rajaramon/">
 		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/linkedin.png" alt="Linkedin">
-	</a> <a href="https://github.com/Viknesh-Rajaramon/">
+	</a>
+</span>
+
+<span align="center">
+	<a href="https://github.com/Viknesh-Rajaramon/">
 		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/github.png" alt="GitHub">
 	</a>
-</p>
+</span>
