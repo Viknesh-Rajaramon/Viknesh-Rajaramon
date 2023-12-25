@@ -8,15 +8,19 @@
 
 <h3>To reach me, click <a href="https://viknesh-rajaramon.github.io/#contact" target="_blank">here</a>.</h3>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=viknesh-rajaramon&show_icons=true&theme=tokyonight)
+<hr>
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=viknesh-rajaramon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=viknesh-rajaramon&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viknesh-rajaramon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <hr>
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/viknesh-rajaramon/">
-		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/linkedin.png" alt="Linkedin" width="30" height="30">
-	</a>
-  	<a href="https://github.com/Viknesh-Rajaramon/">
-		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/github.png" alt="GitHub" width="30" height="30">
-	</a>
-</p>
+[![](https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/linkedin.png?width=30&height=30)](https://www.linkedin.com/in/viknesh-rajaramon/) [![](https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/github.png?width=30&height=30)](https://github.com/Viknesh-Rajaramon/)
