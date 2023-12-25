@@ -1,3 +1,5 @@
+# About Me:
+
 <h1 align="center">Hi 👋, I'm Viknesh Rajaramon</h1>
 
 <h3>I am a versatile and self-motivated engineer pursuing Master of Science at ASU in Computer Science.</h3>
@@ -8,7 +10,18 @@
 
 <h3>To reach me, click <a href="https://viknesh-rajaramon.github.io/#contact" target="_blank">here</a>.</h3>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=viknesh-rajaramon&show_icons=true&theme=tokyonight)
+<hr>
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=viknesh-rajaramon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=viknesh-rajaramon&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viknesh-rajaramon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <hr>
 
