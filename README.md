@@ -23,7 +23,4 @@
 
 <hr>
 
-<p align="center">
-[![LinkedIn](https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/linkedin.png?width=30&height=30)](https://www.linkedin.com/in/viknesh-rajaramon/) 
-[![Github](https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/github.png?width=30&height=30)](https://github.com/Viknesh-Rajaramon/)
-</p>
+[![](https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/linkedin.png?width=30&height=30)](https://www.linkedin.com/in/viknesh-rajaramon/) [![](https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/github.png?width=30&height=30)](https://github.com/Viknesh-Rajaramon/)
