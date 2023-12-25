@@ -23,14 +23,11 @@
 
 <hr>
 
-<span align="center">
+<p align="center">
 	<a href="https://www.linkedin.com/in/viknesh-rajaramon/">
-		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/linkedin.png" alt="Linkedin">
+		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/linkedin.png" alt="Linkedin" width="30" height="30">
 	</a>
-</span>
-
-<span align="center">
-	<a href="https://github.com/Viknesh-Rajaramon/">
-		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/github.png" alt="GitHub">
+  	<a href="https://github.com/Viknesh-Rajaramon/">
+		<img src="https://github.com/Viknesh-Rajaramon/Viknesh-Rajaramon/blob/master/images/github.png" alt="GitHub" width="30" height="30">
 	</a>
-</span>
+</p>
