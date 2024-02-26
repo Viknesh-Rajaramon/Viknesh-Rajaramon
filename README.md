@@ -11,8 +11,8 @@
 <hr>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Viknesh-Rajaramon&hide_border=false&include_all_commits=true&count_private=true)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Viknesh-Rajaramon&hide_border=false&hide=stars&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Viknesh-Rajaramon&hide_border=false&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Viknesh-Rajaramon&hide_border=false&count_private=true&hide=stars&show_icons=true)
 
 <br/>
 
