@@ -12,7 +12,7 @@
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Viknesh-Rajaramon&hide_border=false&include_all_commits=true&count_private=true)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Viknesh-Rajaramon&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Viknesh-Rajaramon&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
